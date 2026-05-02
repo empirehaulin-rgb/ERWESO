@@ -24,12 +24,12 @@
   ],
   "NORMAL": [
     {
-      "buyerName": "Nombre Cliente",
+      "buyerName": "Brayan",
       "purchaseDate": "01/05/2026",
       "key": "BC-NOR-111",
       "vence": "15/05/2026",
       "type": "normal",
-      "owner": 0,
+      "owner": 5449399097,
       "maxUsers": 1
     }
   ]
