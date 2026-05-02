@@ -1,0 +1,36 @@
+{
+  "ADMIN": [
+    {
+      "buyerName": "Diego G (Owner)",
+      "purchaseDate": "01/01/2026",
+      "key": "BYCODE-ADMIN-2026",
+      "vence": "PERMANENTE",
+      "type": "admin",
+      "owner": 1234567,
+      "maxUsers": 999
+    }
+  ],
+  "FAMILY": [
+    {
+      "buyerName": "Nombre Cliente",
+      "purchaseDate": "01/05/2026",
+      "key": "BC-FAM-777",
+      "vence": "01/06/2026",
+      "type": "family",
+      "owner": 0,
+      "users": [],
+      "maxUsers": 5
+    }
+  ],
+  "NORMAL": [
+    {
+      "buyerName": "Nombre Cliente",
+      "purchaseDate": "01/05/2026",
+      "key": "BC-NOR-111",
+      "vence": "15/05/2026",
+      "type": "normal",
+      "owner": 0,
+      "maxUsers": 1
+    }
+  ]
+}
